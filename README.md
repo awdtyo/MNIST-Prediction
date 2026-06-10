@@ -1,6 +1,6 @@
 # MNIST Digit Classification using a Feedforward Neural Network
 
-This repository contains a simple Feedforward Neural Network (FFNN) implementation in Keras/TensorFlow for classifying handwritten digits from the MNIST dataset.
+Implementation of a simple Feedforward Neural Network (FFNN) implementation in Keras/TensorFlow for classifying handwritten digits from the MNIST dataset.
 
 ## Project Overview
 
